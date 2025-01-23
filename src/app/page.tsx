@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Home() {
   return (
     <div className="space-y-8">
-      <h1 className="text-4xl font-bold text-green-800">Welcome to Your NGO Name</h1>
+      <h1 className="text-4xl font-bold text-green-800">Welcome to Folcon Welfare Foundation</h1>
       <Image src="/hero-image.jpg" alt="NGO Hero Image" width={1200} height={600} className="rounded-lg" />
       <p className="text-lg text-green-700">
         Your NGO Name is dedicated to [brief description of your mission]. We work tirelessly to [main goal or activity
