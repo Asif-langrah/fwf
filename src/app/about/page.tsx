@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div className="space-y-8">
       <h1 className="text-4xl font-bold text-green-800">About Your NGO Name</h1>
-      <Image src="/about-image.jpg" alt="About Us" width={1200} height={600} className="rounded-lg" />
+      <Image src="/asif.jpeg" alt="About Us" width={1200} height={600} className="rounded-lg" />
       <p className="text-lg text-green-700">
         Founded in [year], Your NGO Name has been dedicated to [mission statement]. Our team of passionate individuals
         works tirelessly to [main activities or goals].

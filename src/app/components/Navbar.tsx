@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/" className="flex items-center">
           <Image src="/logo.png" alt="NGO Logo" width={50} height={50} />
-          <span className="ml-2 text-xl font-bold text-white">Falcon Welfare Foundation</span>
+          <span className="ml-2 text-xl font-bold text-white">Your NGO Name</span>
         </Link>
         <ul className="flex space-x-4">
           <li>
@@ -28,6 +28,11 @@ export default function Navbar() {
           <li>
             <Link href="/partners" className="text-white hover:text-green-200">
               Partners
+            </Link>
+          </li>
+          <li>
+            <Link href="/workshop" className="text-white hover:text-green-200">
+              Workshop
             </Link>
           </li>
           <li>
