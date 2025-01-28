@@ -6,10 +6,10 @@ export default function About() {
       <h1 className="text-4xl font-bold text-green-800">Falcon Welfare Foundation</h1>
       <Image src="/asif.jpeg" alt="About Us" width={1200} height={600} className="rounded-lg" />
       <p className="text-lg text-green-700">
-        Falcon welfare Foundation Founded in 2000 working for the prospirity of neglected and marganlized community of Pakistan.
+        Falcon welfare Foundation Founded in 1986 working for the prospirity of neglected and marganlized community of Pakistan.
       </p>
       <h2 className="text-2xl font-semibold text-green-800">Our Vision</h2>
-      <p className="text-lg text-green-700">[Describe your NGO's vision for the future]</p>
+      <p className="text-lg text-green-700">[The Foundation with the support of its non-governmental affiliations, vows to fulfill its pledge of rendering assistance to the humanity in need with laying special emphasis on social welfare work as originally conceived.]</p>
       <h2 className="text-2xl font-semibold text-green-800">Our Team</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         <div className="text-center">
